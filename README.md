@@ -94,6 +94,4 @@ Push to ECR
 Trigger ECS deployment
 
 
-Results:
 
-<img width="1920" height="1080" alt="Screenshot (314)" src="https://github.com/user-attachments/assets/28850fc1-3c15-43b2-9407-4be97b8d86ce" />
